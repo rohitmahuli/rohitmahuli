@@ -27,7 +27,7 @@ Here are some things about me:
 - Led a team to handle student inquiries and document processing.
 
 ### Systems Engineer, Tata Consultancy Services, India
-*July 2019 – August 2022*
+*July 2019 – Present*
 
 .NET Developer
 - Designed and implemented complex REST APIs using ASP.NET Core, enhancing the scalability and maintainability of applications by
