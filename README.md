@@ -29,38 +29,38 @@ Here are some things about me:
 ### Systems Engineer, Tata Consultancy Services, India
 *July 2019 – August 2022*
 .NET Developer
-• Designed and implemented complex REST APIs using ASP.NET Core, enhancing the scalability and maintainability of applications by
+- Designed and implemented complex REST APIs using ASP.NET Core, enhancing the scalability and maintainability of applications by
   structuring the codebase into reusable components.
-• Developed and maintained microservices using .NET Core to handle critical business processes, improving modularity and reducing
+- Developed and maintained microservices using .NET Core to handle critical business processes, improving modularity and reducing
   deployment times by 30%.
-• Leveraged ASP.NET MVC architecture to create scalable, maintainable applications, ensuring clean separation of concerns and improved
+- Leveraged ASP.NET MVC architecture to create scalable, maintainable applications, ensuring clean separation of concerns and improved
   overall project structure.
-• Utilized LINQ to query and manipulate data efficiently in both in-memory collections and databases, minimizing the need for complex
+- Utilized LINQ to query and manipulate data efficiently in both in-memory collections and databases, minimizing the need for complex
   SQL queries.
-• Integrated RESTful APIs for secure data exchange between front-end and back-end systems, improving data retrieval speed and overall
+- Integrated RESTful APIs for secure data exchange between front-end and back-end systems, improving data retrieval speed and overall
   application performance.
-• Employed Entity Framework for ORM to automate data access operations, reducing boilerplate SQL code and enhancing development
+- Employed Entity Framework for ORM to automate data access operations, reducing boilerplate SQL code and enhancing development
   efficiency.
-• Managed application state using session management and cookies, ensuring proper handling of user data across multiple sessions while
+- Managed application state using session management and cookies, ensuring proper handling of user data across multiple sessions while
   adhering to security best practices.
-• Optimized SQL Server database, improving query performance by 25%, leading to faster data retrieval and better user experience.
-• Debugged and resolved complex issues in the .NET application using Visual Studio tools like the Debugger and Profiler, improving
+- Optimized SQL Server database, improving query performance by 25%, leading to faster data retrieval and better user experience.
+- Debugged and resolved complex issues in the .NET application using Visual Studio tools like the Debugger and Profiler, improving
   application reliability and uptime.
-• Configured CI/CD pipelines using GitHub Actions to automate testing and deployment, reducing manual intervention and speeding up the
+- Configured CI/CD pipelines using GitHub Actions to automate testing and deployment, reducing manual intervention and speeding up the
   release process by 40%.
-• Collaborated with front-end developers using React, ensuring seamless integration with the back-end systems and delivering a cohesive
+- Collaborated with front-end developers using React, ensuring seamless integration with the back-end systems and delivering a cohesive
   user experience.
-• Implemented unit tests and automation tests to ensure application reliability and maintain high-quality code standards.
+- Implemented unit tests and automation tests to ensure application reliability and maintain high-quality code standards.
 
 
 SAP ABAP Developer
-• Developed custom ABAP reports and transactions to track the movement of serialized materials in the supply chain for a
+- Developed custom ABAP reports and transactions to track the movement of serialized materials in the supply chain for a
   pharmaceuticalcompany, ensuring compliance with industry standards.
-• Enhanced material tracking in SAP EWM by creating user exits and BAdIs, improving the accuracy and efficiency of
+- Enhanced material tracking in SAP EWM by creating user exits and BAdIs, improving the accuracy and efficiency of
   inventorymanagement across multiple warehouse locations.
-• Worked closely with functional teams to test and deploy material tracking solutions, ensuring successful integration with other
+- Worked closely with functional teams to test and deploy material tracking solutions, ensuring successful integration with other
   SAPmodules like ECC and WM.
-• Automated PDF generation for sales and purchase orders using SAP Adobe Forms, reducing manual data entry and improving document
+- Automated PDF generation for sales and purchase orders using SAP Adobe Forms, reducing manual data entry and improving document
   accuracy.
 
 ### Web App Developer (Intern), Cubiccode Pvt Ltd, India
