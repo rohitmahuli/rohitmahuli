@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and graduate st
 
 Here are some things about me:
 
-- 🔭 I’m currently working on Javascipt projects
+- 🔭 I’m currently working on ASP.NET projects
 - 🌱 I’m currently learning Rust and WebAssembly
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for a Full time/Part time Job as a Software Developer
