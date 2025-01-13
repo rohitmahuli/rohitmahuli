@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer and graduate st
 
 Here are some things about me:
 
-- 🔭 I’m currently working on ASP.NET projects
-- 🌱 I’m currently learning Rust and WebAssembly
+- 🔭 I’m currently working on Java Spring Boot projects with Gen AI
+- 🌱 I’m currently learning AWS and Gen AI
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for a Full time/Part time Job as a Software Developer
-- 💬 Ask me about web development, JavaScript, SAP ABAP and Python
+- 💬 Ask me about web development, Java, JavaScript and Python
 - 📫 How to reach me: [rohitmuta@gmail.com](mailto:rohitmuta@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and photography
