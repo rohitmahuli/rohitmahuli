@@ -106,9 +106,9 @@ SAP ABAP Developer
 
 ## Contact Me
 
-- 📫 Email: [rohitmuta@gmail.com](mailto:rohitmuta@gmail.com)
+- 📫 Email: [rohitmuta@gmail.com](mailto:rohit.mahuli97@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rohit-mahuli](http://www.linkedin.com/in/rohit-mahuli)
-- 👨‍💻 GitHub: [github.com/rohitmuta](http://www.github.com/rohitmuta)
+- 👨‍💻 GitHub: [github.com/rohitmuta](http://www.github.com/rohitmahuli)
 
 Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to discussing new projects, collaborations, and opportunities!
 
