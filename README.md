@@ -30,22 +30,22 @@ Here are some things about me:
 *July 2019 – Present*
 
 Systems Engineer
-- Designed and implemented complex REST APIs using ASP.NET Core, enhancing the scalability and maintainability of applications by
+- Designed and implemented complex REST APIs using Java Spring boot, enhancing the scalability and maintainability of applications by
   structuring the codebase into reusable components.
-- Developed and maintained microservices using .NET Core to handle critical business processes, improving modularity and reducing
+- Developed and maintained microservices to handle critical business processes, improving modularity and reducing
   deployment times by 30%.
-- Leveraged ASP.NET MVC architecture to create scalable, maintainable applications, ensuring clean separation of concerns and improved
+- Leveraged Spring MVC architecture to create scalable, maintainable applications, ensuring clean separation of concerns and improved
   overall project structure.
-- Utilized LINQ to query and manipulate data efficiently in both in-memory collections and databases, minimizing the need for complex
+- Utilized SQL query and manipulate data efficiently in both in-memory collections and databases, minimizing the need for complex
   SQL queries.
 - Integrated RESTful APIs for secure data exchange between front-end and back-end systems, improving data retrieval speed and overall
   application performance.
-- Employed Entity Framework for ORM to automate data access operations, reducing boilerplate SQL code and enhancing development
+- Employed Hibernate for ORM to automate data access operations, reducing boilerplate SQL code and enhancing development
   efficiency.
 - Managed application state using session management and cookies, ensuring proper handling of user data across multiple sessions while
   adhering to security best practices.
 - Optimized SQL Server database, improving query performance by 25%, leading to faster data retrieval and better user experience.
-- Debugged and resolved complex issues in the .NET application using Visual Studio tools like the Debugger and Profiler, improving
+- Debugged and resolved complex issues in the application using Visual Studio tools like the Debugger and Profiler, improving
   application reliability and uptime.
 - Configured CI/CD pipelines using GitHub Actions to automate testing and deployment, reducing manual intervention and speeding up the
   release process by 40%.
