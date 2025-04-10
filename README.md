@@ -9,7 +9,7 @@ Here are some things about me:
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for a Full time/Part time Job as a Software Developer
 - 💬 Ask me about web development, Java, JavaScript and Python
-- 📫 How to reach me: [rohitmuta@gmail.com](mailto:rohit.mahuli97@gmail.com)
+- 📫 How to reach me: [rohit.mahuli97@gmail.com](mailto:rohit.mahuli97@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and photography
 
@@ -106,9 +106,9 @@ SAP ABAP Developer
 
 ## Contact Me
 
-- 📫 Email: [rohitmuta@gmail.com](mailto:rohit.mahuli97@gmail.com)
+- 📫 Email: [rohit.mahuli97@gmail.com](mailto:rohit.mahuli97@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rohit-mahuli](http://www.linkedin.com/in/rohit-mahuli)
-- 👨‍💻 GitHub: [github.com/rohitmuta](http://www.github.com/rohitmahuli)
+- 👨‍💻 GitHub: [github.com/rohitmahuli](http://www.github.com/rohitmahuli)
 
 Feel free to explore my repositories and connect with me on LinkedIn. I'm always open to discussing new projects, collaborations, and opportunities!
 
