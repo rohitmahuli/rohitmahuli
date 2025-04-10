@@ -29,7 +29,7 @@ Here are some things about me:
 ### Systems Engineer, Tata Consultancy Services, India
 *July 2019 – Present*
 
-.NET Developer
+Systems Engineer
 - Designed and implemented complex REST APIs using ASP.NET Core, enhancing the scalability and maintainability of applications by
   structuring the codebase into reusable components.
 - Developed and maintained microservices using .NET Core to handle critical business processes, improving modularity and reducing
