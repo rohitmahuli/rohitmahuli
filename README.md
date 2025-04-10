@@ -9,7 +9,7 @@ Here are some things about me:
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for a Full time/Part time Job as a Software Developer
 - 💬 Ask me about web development, Java, JavaScript and Python
-- 📫 How to reach me: [rohitmuta@gmail.com](mailto:rohitmuta@gmail.com)
+- 📫 How to reach me: [rohitmuta@gmail.com](mailto:rohit.mahuli97@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and photography
 
